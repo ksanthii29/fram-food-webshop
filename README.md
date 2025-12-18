@@ -25,8 +25,8 @@ Open index.html in your browser or use a local server like Live Server
 
 ## How to run the application locally
 
-Replace YOUR_API_KEY in the Google Maps script with your own API key
-Chatbot is simulated and does not use a live API
+- Replace `YOUR_API_KEY` in the Google Maps script with your own API key to view the map
+- The chatbot is simulated and does not connect to a live OpenAI API
 
 ## Future improvements
 
